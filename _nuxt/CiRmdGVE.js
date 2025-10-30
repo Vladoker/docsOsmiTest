@@ -1,0 +1,1 @@
+import{D as a,d as c,i as n,f as s,bA as o}from"#entry";const m={class:"flex items-center justify-center"},_=a({__name:"StaticImage",props:{image:{}},setup(e){return(i,r)=>{const t=o;return n(),c("div",m,[s(t,{src:e.image},null,8,["src"])])}}}),l=Object.assign(_,{__name:"StaticImage"});export{l as default};
